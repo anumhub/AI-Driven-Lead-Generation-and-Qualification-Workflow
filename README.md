@@ -24,7 +24,7 @@ The project focuses on applying QA principles to AI-driven automation, including
 
 ## Repository Structure
 - Lead Generation-Executive-Summary → Project overview and objectives
-- Prompts → AI prompt and JSON structure
+- Prompt → AI prompt and JSON structure
 - Scenarios cover for Demo + Test Data for Requiement field→ validation scenarios and test data for requirement field
 - Lead Generation- Automation Workflow Overview → Make.com workflow documentation
 - Lead Generation-Demo-video → End-to-end demo recording
