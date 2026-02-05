@@ -1,4 +1,4 @@
-# AI-Driven-Lead-Generation-and-Qualification-Workflow
+# AI-Driven-Lead-Generation-and-Qualification-Workflow(Make.com)
 This project demonstrates an AI-powered lead generation and qualification workflow built using Make.com, OpenAI, and Google Sheets. The solution automates lead scoring, routing, deduplication, and follow-up actions while ensuring structured AI outputs and reliable workflow execution.
 
 The project focuses on applying QA principles to AI-driven automation, including validation, error handling, and monitoring of non-deterministic AI behavior.
